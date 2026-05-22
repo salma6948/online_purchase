@@ -430,7 +430,7 @@ bonus_month_confusion_matrices.png
 
 ## Report Structure
 
-The written report should follow the exact structure required by the assignment:
+The written report follows this exact structure:
 
 1. Research question and chosen dataset
 2. Reference model and observed symptom
@@ -439,13 +439,12 @@ The written report should follow the exact structure required by the assignment:
 5. Threats to validity
 6. Conclusion and what was learned
 
-The report should include figures and tables whenever they clarify the reasoning.
 
 ---
 
 ## Threats to Validity
 
-The project should explicitly discuss the following limitations:
+The project discusses the following limitations:
 
 - The measured gains may depend on the random seed.
 - The test set may not be large enough to make all metric differences statistically conclusive.
@@ -470,19 +469,6 @@ This makes the experiments easier to reproduce, although small differences can s
 
 ---
 
-## Notes Before Submission
-
-Before submitting the GitHub repository, it is recommended to:
-
-- Rename the notebooks using the clean names suggested above.
-- Keep only useful generated outputs.
-- Include `requirements.txt`.
-- Include this `README.md` at the root of the repository.
-- Make sure `online_shoppers_intention.csv` is either included if allowed, or clearly explain how to download it from UCI.
-- Verify that each notebook can run independently from a fresh runtime.
-- Remove unused cells, duplicate outputs, and temporary debugging code.
-
----
 
 ## Team
 
